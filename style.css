@@ -3,3 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
+<link rel="stylesheet" href="relative path to CSS file" />
+h1 {
+  color: red;
+}
